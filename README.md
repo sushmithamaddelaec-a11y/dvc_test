@@ -6,3 +6,4 @@
 #### Setup
 setup with (using a virtualenv):
 `pip install -r packages/neural_network_model/requirements.txt`
+This is my CI test
